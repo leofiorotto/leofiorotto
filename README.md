@@ -30,7 +30,7 @@
 
 - 🌱 Actualimente termianndo la carrera de Ingenieria en Sistemas en la UTN.**
 
-- 🌱 Siempre que seas esto estoy haciendo cursos para seguir aprendiendo**
+- 🌱 Siempre que veas esto estoy haciendo cursos para seguir aprendiendo**
 
 - 🏠 Tengo portfolio en React por si quieres verlo. (https://presentacion-lemon.vercel.app/)
 
