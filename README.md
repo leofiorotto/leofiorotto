@@ -28,11 +28,11 @@
 <!--Intro start-->
 - 🔭 Actualmente trabajando en **HTML, CSS, JS, React, Nodejs, MongoDB**
 
-- 🌱 Actualimente termianndo la carrera de Ingenieria en Sistemas en la UTN.**
+- 🌱 Actualimente terminando la carrera de Ingenieria en Sistemas en la UTN.**
 
-- 🌱 Siempre que veas esto estoy haciendo cursos para seguir aprendiendo**
+- 🌱 Siempre haciendo cursos para seguir aprendiendo**
 
-- 🏠 Tengo portfolio en React por si quieres verlo. (https://presentacion-lemon.vercel.app/)
+- 🏠 Tengo portfolio en React por si quieres verlo. (https://portfolio-xi-roan-58.vercel.app/)
 
 - 💬 Trabajando de forma freelance en distintos sitios con React, NodeJS y MongoDB**
   
