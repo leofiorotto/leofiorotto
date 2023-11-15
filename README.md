@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 Actualmente trabajando en **HTML, CSS, JS, React, Nodejs, MongoDB**
+
 
 - 🌱 Actualimente terminando la carrera de Ingenieria en Sistemas en la UTN.**
 
@@ -29,7 +29,6 @@
 
 - 💬 Trabajando de forma freelance en distintos sitios con React, NodeJS y MongoDB**
   
-- 💬 Si tienes alguna oportunidad laboral me interesa**
 
 - 📫 Este es mi correo por si te interesa mi perfil **leo.fiorotto@hotmail.com**
 
