@@ -27,7 +27,7 @@
 
 - 🏠 Tengo portfolio en React por si quieres verlo. (https://portfolio-xi-roan-58.vercel.app/)
 
-- 💬 Trabajando de forma freelance en distintos sitios con React, NodeJS y MongoDB**
+- 💬 Actualmente trabajando como Software Developer en Documentos Aduaneros (DASA)**
   
 
 - 📫 Este es mi correo por si te interesa mi perfil **leo.fiorotto@hotmail.com**
